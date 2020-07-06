@@ -1,0 +1,10 @@
+
+Diese Datei enthält alle Befehle für meine CMD. Auf diese Weise musste ich sie nicht immer erneut von Hand eingeben.
+
+C:\Users\Tillman\Desktop\PHP\php\php.exe C:\Users\Tillman\Desktop\BIET-PROGRAMME\nudeln.php
+
+C:\Users\Tillman\Desktop\PHP\php\php.exe C:\Users\Tillman\Desktop\BIET-PROGRAMME\auk_check.php
+
+C:\Users\Tillman\Desktop\PHP\php\php.exe C:\Users\Tillman\Desktop\BIET-PROGRAMME\klopapier.php
+
+C:\Users\Tillman\Desktop\BIET-PROGRAMME>C:\Users\Tillman\Desktop\PHP\php\php.exe C:\Users\Tillman\Desktop\BIET-PROGRAMME\bier.php
